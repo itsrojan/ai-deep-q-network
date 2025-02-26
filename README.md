@@ -3,7 +3,7 @@
 
 ## Description:
 
-- Cartpole DQN
+- CartPole DQN
   
 - Fill in all the to-do sections in the provided code template.
   
